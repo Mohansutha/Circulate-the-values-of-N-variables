@@ -21,8 +21,8 @@ End the program.
 ## Program:
 ~~~
 #Program to circulate N values.
-#Developed by: 
-#RegisterNumber:
+#Developed by:s.mohanraj
+#RegisterNumber:21500140 
 def circulate():
     l=[10,20,30,40,50,60]
     n=int(input())
@@ -31,5 +31,7 @@ def circulate():
 ~~~
 ## Output:
 ![github logo](circulate.png)
+![image](https://user-images.githubusercontent.com/94828335/153637178-6c7de6e7-d396-4d21-ab1d-1d21dc3fdab6.png)
+
 ## Result:
 Thus, a python program to circulate the n variables using function concept is executed successfully.
